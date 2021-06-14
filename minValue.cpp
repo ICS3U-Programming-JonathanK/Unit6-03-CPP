@@ -1,13 +1,13 @@
-// Copyright (c) 2019 St. Mother Teresa HS All rights reserved.
+// Copyright (c) 2021 Jonathan Kene All rights reserved.
 //
 // Created by: Jonathan Kene
-// Created on: June 10, 2021
+// Created on: June 14, 2021
 // The program places the numbers into a single variable
 // and prints them to the console. After the array is full, your program
 // calculates the average of all the numbers and displays it.
 
-#include <iostream>
 #include <time.h>
+#include <iostream>
 #include <array>
 
 
